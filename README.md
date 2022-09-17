@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Soulxmatt
-- 👀 I’m interested in ...
+- 👀 I do weeb project or anything i could find interesting
 - 🌱 I’m currently learning Firebase Database + Angular
 - 📫 You can reach me at mty649@gmail.com
 
